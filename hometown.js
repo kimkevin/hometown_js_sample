@@ -41,7 +41,7 @@ var neighbor = {
   },
 
   print: function() {
-    console.log('Neighbor is ' + this.age + ' years old!!');
+    console.log('Neighbor is ' + this.age + ' years old');
   }
 }
 
